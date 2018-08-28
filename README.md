@@ -3,7 +3,7 @@
 ### App Description
 A fun basic iOS app with a little surprise!
 
-### App Walk-though
+### App Walk-through
 
 <img src="http://g.recordit.co/FoqGGL8ZQb.gif" width=200><br>
 
